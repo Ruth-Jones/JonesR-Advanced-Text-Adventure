@@ -15,7 +15,7 @@ namespace Advanced_Text_Adventure
     {
         public int age;
         public (float r, float g, float b) hairColor;
-        public string name;
+        public required string name;
          
         
         //"protected" means anything in the class or connected to the class has access to it
@@ -61,7 +61,7 @@ namespace Advanced_Text_Adventure
     public class Ruth : Players
     {
 
-    public float stupidLevel;
+    public float driftLevel;
 
     }
 

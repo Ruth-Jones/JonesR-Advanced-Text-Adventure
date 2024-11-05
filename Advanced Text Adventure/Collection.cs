@@ -11,11 +11,11 @@ namespace Advanced_Text_Adventure
         static void Collect()
         {
             // some basic variable types
-            int x = 5;
-            float y = 3.5f;
-            string myString = "hi";
-            char c = 'I';
-            bool myBool = true;
+            //int x = 5;
+            //float y = 3.5f;
+            //string myString = "hi";
+            //char c = 'I';
+            //bool myBool = true;
 
             //Array. The size never changes.
             bool[] myBools = [true, false, false, true];
